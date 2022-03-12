@@ -355,7 +355,7 @@ margin-top: 5%;
     margin-top: -2%;
 }
 .pese{
-    width: 300px;
+    width: 185px;
     height: 270px;
     box-shadow: 0px 5px 5px 5px darkgray;
 }
@@ -366,4 +366,18 @@ margin-top: 5%;
 .buton-img-1{
     margin-left:90%;
     margin-top: -2%;
+}
+.plan{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+.right-left{
+    margin-top: 5%;
+    margin-left: 90%;
+}
+.pricing-plan{
+    margin-top: 15%;
+
 }

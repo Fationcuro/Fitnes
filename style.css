@@ -1,11 +1,19 @@
 body{
-    background-image: url(boxing.webp);
-    background-size: cover;
+  background-color: white;
+  margin: 0;
+
+}
+.boxing{
+    width: 1650px;
+    margin: 0%;
+
+}
+header{
+    margin-top: -56%;
 }
 
 .gym-icon{
     margin-left: 40px;
-    
 
 }
 h4{
@@ -188,10 +196,98 @@ main{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
     border: none;
+    cursor: pointer;
     border-radius: 2px;
 
 }
 .join-now{
     margin-left: 15.7%;
     margin-top: 3%;
+}
+.our{
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20%;
+    font-size: 50px;
+    margin-left:500px;
+
+}
+.pik{
+    color: green;
+    font-weight: bold;
+}
+.atmosphere{
+    color: darkgray;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.page-prgph-1{
+    margin-left: 20%;
+    
+}
+.staff{
+    color: darkgray;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.page-prgph-2{
+    margin-left: 20%;
+
+}
+.individual{
+    color: darkgray;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.page-prgph-3{
+    margin-left: 20%;
+}
+.strengths{
+    color: darkgray;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.page-prgph-4{
+margin-left: 20%;
+margin-top: 5%;
+}
+.foot{
+    color: darkgray;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.page-prgph-5{
+    margin-left: 20%;
+}
+.btn-2{
+  font-family: Arial, Helvetica, sans-serif;
+  border: none;
+  background-color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+.page-2-btn{
+    margin-left: 20%;
+    margin-top: 3%;
+}
+.icon-right{
+    margin-left: 26%;
+    margin-top: -1.2%;
+    cursor: pointer;
+
+}
+.training{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+.training-programs{
+    margin-top: 5%;
 }

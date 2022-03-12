@@ -367,17 +367,234 @@ margin-top: 5%;
     margin-left:90%;
     margin-top: -2%;
 }
+.right-left{
+    margin-top: 5%;
+    margin-left: 90%;
+}
+svg{
+    box-shadow: 0px 3px 3px 3px darkgray;
+    border-radius: 50%;
+}
+.pricing-plan{
+    margin-top: 15%;
+    
+}
 .plan{
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     text-align: center;
 }
-.right-left{
+.box-1{
+    background: rgba(19, 19, 22, 0.05);
+    width: 400px;
+    height: 500px;
+    margin-left: 7%; 
+    box-shadow: 0px 5px 5px 5px darkgray;
+    border-radius: 10px;
     margin-top: 5%;
-    margin-left: 90%;
-}
-.pricing-plan{
-    margin-top: 15%;
 
+
+}
+.basic-btn{
+    color: white;
+    border:none;
+    background-color: black;
+    padding: 4px 12px;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 20%;
+
+}
+.basic{
+ padding: 10px;
+ text-align: center;
+}
+.twenty{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.month{
+    margin-top: -10%;
+    text-align: center;
+}
+.muaj{
+    color: rgb(73, 71, 71);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+}
+.dhenat{
+font-family: Arial, Helvetica, sans-serif;
+margin-top: 15%;
+
+
+
+}
+.unlimited{
+color: black;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+list-style: none;
+margin: 15px;
+text-align: center;
+}
+.programs{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    list-style: none;
+    margin:15px;
+    text-align: center;
+}
+.free{
+    color: black;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+list-style: none;
+text-align: center;
+
+}
+.progr{
+    margin-right: 36px;
+}
+.dhenat{
+    margin-right: 70px;
+}
+.btn-katror-1{
+  color: black;
+  background-color: transparent;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px 12px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.buton-box-1{
+    margin-top: 13%;
+    text-align: center;
+}
+
+.box-2{
+background-color: black;
+    width: 390px;
+    height: 600px;
+    box-shadow: 0px 5px 5px 5px darkgray;
+    border-radius: 10px;
+    margin-left:40% ;
+    margin-top: -33%;
+}
+.premium-btn{
+    color: black;
+    border:none;
+    background-color: white;
+    padding: 4px 12px;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 20%;
+}
+.premium{
+    padding: 10px;
+ text-align: center;
+}
+.thirty-five{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.muaji{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    color: white;   
+}
+.access{
+    color: white;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+list-style: none;
+text-align: center;
+}
+.programs-box-2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    list-style: none;
+    text-align: center;
+}
+.free-box-2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    list-style: none;
+    
+}
+.personal{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    list-style: none;
+
+}
+.ultimited-2{
+    margin-top: 15%;
+    margin-right: 60px;
+}
+.five-training{
+margin-right: 85px;
+
+}
+.free-fitnes{
+    margin-left: 53px;
+}
+.personal-trainer{
+    margin-left: 55px;
+}
+.btn-katror-2{
+    color: black;
+    background-color: white ;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 12px;
+    border-radius: 5px;
+  }
+  .buton-box-2{
+    margin-top: 17%;
+    text-align: center;
+    cursor: pointer;
+}
+.box-3{
+    background: rgba(19, 19, 22, 0.05);
+    width: 400px;
+    height: 500px;
+    margin-left: 130%; 
+    box-shadow: 0px 5px 5px 5px darkgray;
+    border-radius: 10px;
+    margin-top: -122%;
+}
+.elite-btn{
+    color: white;
+    border:none;
+    background-color: black;
+    padding: 4px 12px;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 20%;
+}
+.elite{
+    padding: 10px;
+ text-align: center;
+}
+.forty-nine{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
 }

@@ -844,4 +844,68 @@ body{
     margin-left: 92%;
   }
 
-  
+  .fundi{
+    width: 400px;
+    height: 450px;
+    margin-top: -5%;
+    margin-left: 15%;
+  }
+  .border-fund{
+   width: 1650px;
+   height: 500px;
+   margin-top: 17%;
+   background-color: black;
+  }
+  .tekst-7{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+  }
+  .img-fundit{
+      margin-top: -5%;
+      margin-left: 2%;
+  }
+  .tekst-8{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 34%;
+    margin-top: -30%;
+  }
+  .tekst-9{
+      margin-top: -4%;
+  }
+  .paragraphi-fundit{
+ color: white;
+ font-family: 'Courier New', Courier, monospace;
+ font-weight: 400;
+ font-style: normal;
+ margin-left: 34.5%;
+
+  }
+  .para-graph{
+      color: white;
+      font-style: normal;
+      font-size: 20px;
+  }
+  .parag-raph{
+    color: white;
+    font-size: 20px;
+    font-style: normal;
+  }
+  .btn-fundit{
+    color: black;
+    font-size: 12px;
+    background-color: white;
+    padding:10px 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    border-radius: 2px;
+  }
+  .buton-fundit{
+      margin-left: 34.5%;
+  }

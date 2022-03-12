@@ -291,3 +291,79 @@ margin-top: 5%;
 .training-programs{
     margin-top: 5%;
 }
+.img-2{
+   margin-right: 130%;
+
+}
+.para{
+    width: 300px;
+    height: 270px; 
+    box-shadow: 0px 5px 5px 5px darkgray;
+
+}
+.dyta{
+    width: 300px;
+    height: 250px;
+    box-shadow: 0px 5px 5px 5px darkgray;
+
+}
+.img-4{
+   margin-left: 22%;
+   margin-top: -15.8%;
+}
+.btn-box{
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    background-color: aliceblue;
+    padding: 3px 10px;
+    border-radius: 5px;
+}
+.buton-img-4{
+    margin-left: 23%;
+    margin-top: -2%;
+
+}
+.treta{
+    width: 300px;
+    height: 270px;
+    box-shadow: 0px 5px 5px 5px darkgray;
+
+}
+.img-3{
+    margin-left: 44%;
+    margin-top: -15.5%;
+
+}
+.buton-img-3{
+    margin-left: 45%;
+    margin-top: -2%;
+}
+.kater{
+    width: 300px;
+    height: 250px;
+    box-shadow: 0px 5px 5px 5px darkgray;
+}
+.img-5{
+    margin-left:66%;
+    margin-top: -15.5%;
+}
+.buton-img-5{
+    margin-left:67%;
+    margin-top: -2%;
+}
+.pese{
+    width: 300px;
+    height: 270px;
+    box-shadow: 0px 5px 5px 5px darkgray;
+}
+.img-1{
+    margin-left:89%;
+    margin-top: -15.5%;   
+}
+.buton-img-1{
+    margin-left:90%;
+    margin-top: -2%;
+}
